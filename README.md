@@ -17,9 +17,12 @@ $ liftOver   H3K4me1_H1.ENCFF238YJA.hg38.bed   hg38ToHg19.over.chain.gz   H3K4me
 $ liftOver   H3K4me1_H1.ENCFF006PXB.hg38.bed   hg38ToHg19.over.chain.gz   H3K4me1_H1.ENCFF006PXB.hg19.bed   H3K4me1_H1.ENCFF006PXB.unmapped.bed
 
 ```
- ### Далее строим графики
+Далее строим графики
+
 * ENCFF006PXB
 
+
+Отсечка 1500
 
 init            |  Фильтрация
 :-------------------------:|:-------------------------:
@@ -27,7 +30,13 @@ init            |  Фильтрация
 * ENCFF238YJA
 
 
+Отсечка 2000
+
 init            |  Фильтрация
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/54990073/121435450-94412f80-c987-11eb-882e-53b2609c1c42.png)  |  ![](https://user-images.githubusercontent.com/54990073/121435447-93a89900-c987-11eb-8aa4-e8c29cb3591f.png)
 
+### Анализ участков вторичной стр-ры ДНК
+![len_hist H3K4me1_H1 intersect_with_DeepZ](https://user-images.githubusercontent.com/54990073/121436245-e20a6780-c988-11eb-9afd-3d30bb6374de.png)
+### Анализ пересечений гистоновой метки и стр-ры ДНК
+![len_hist H3K4me1_H1 merge hg19](https://user-images.githubusercontent.com/54990073/121436246-e2a2fe00-c988-11eb-8c75-259f5adb889b.png)
