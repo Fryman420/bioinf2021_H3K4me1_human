@@ -40,3 +40,8 @@ init            |  Фильтрация
 ![len_hist H3K4me1_H1 intersect_with_DeepZ](https://user-images.githubusercontent.com/54990073/121436245-e20a6780-c988-11eb-9afd-3d30bb6374de.png)
 ### Анализ пересечений гистоновой метки и стр-ры ДНК
 ![len_hist H3K4me1_H1 merge hg19](https://user-images.githubusercontent.com/54990073/121436246-e2a2fe00-c988-11eb-8c75-259f5adb889b.png)
+
+### GO 
+
+![image](https://user-images.githubusercontent.com/54990073/121439340-6f9c8600-c98e-11eb-991b-4aa36d3f0a45.png)
+
