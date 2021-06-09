@@ -26,7 +26,7 @@ $ liftOver   H3K4me1_H1.ENCFF006PXB.hg38.bed   hg38ToHg19.over.chain.gz   H3K4me
 
 init            |  Фильтрация
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/54990073/121434365-e6815100-c985-11eb-894b-4f28d369a3e8.png)  |  ![](https://user-images.githubusercontent.com/54990073/121434368-e719e780-c985-11eb-9a73-6ffe78940cb4.png)
+![](https://user-images.githubusercontent.com/54990073/121434368-e719e780-c985-11eb-9a73-6ffe78940cb4.png)  |  ![](https://user-images.githubusercontent.com/54990073/121434365-e6815100-c985-11eb-894b-4f28d369a3e8.png)
 * ENCFF238YJA
 
 
